@@ -26,4 +26,4 @@ Features include:
 Feel free to take from the script what you want, modify it, distribute it, just don't sell the parts that stay the same, as your creation.
 You know, the whole credit thing. If someone wants to continue development of the scripts with the goal of staying fairly minimalistic (sorry, ArchHUD is not minimalistic)
 feel free to do so.
-![image](https://imgur.com/exzUMCR)
+![](https://imgur.com/exzUMCR)
