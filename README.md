@@ -11,7 +11,7 @@ If someone wants to make them autoconfig files, please, be my guest.
 
 ## Functionality
 This script suite aims to be fairly minimalistic and give you information about speed and acceleration, as well as the general fuel levels.
-The fuel levels are averaged, which means, each category of "AtmoMain", "SpaceMain", "SpaceUtil" are shown as one bar. 
+The fuel levels are averaged, which means, each category of fuel tanks when named either "AtmoMain", "SpaceMain", "SpaceUtil" are shown as one bar. 
 It is recommended that the grouped fuel tanks are on similar fuel levels and consume similar amounts.
 
 Features include:
