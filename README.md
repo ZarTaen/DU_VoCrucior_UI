@@ -7,7 +7,6 @@ If someone wants to make them autoconfig files, please, be my guest.
 - Then apply ingame to the COCKPIT via the paste function for the whole lua script.
 - Remove the emitter and receivers, as well as all Programming Boards, they are not needed anymore since the Demeter Update.
 - Link the fuel tanks in the order as seen inside the script.
-- If you 
 - You should be good to go!
 
 ## Functionality
@@ -24,6 +23,6 @@ Features include:
 - Parameter to enable/disable buildhelper
 - and more stuff. Consult the help and info commands ingame.
 
-Feel free to take from the script what you want, modify it, distribute it, just don't sell the parts that stay the same as your creation.
-You know, the whole credit thing. If someone wants to continue development of the scripts with the goal of staying with minimalistic visual clutter (sorry, ArchHUD is not minimalistic)
+Feel free to take from the script what you want, modify it, distribute it, just don't sell the parts that stay the same, as your creation.
+You know, the whole credit thing. If someone wants to continue development of the scripts with the goal of staying fairly minimalistic (sorry, ArchHUD is not minimalistic)
 feel free to do so.
